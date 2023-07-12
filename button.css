@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+.a {
+    border:solid 1px black;
+    width: 250px;
+    height:250px;
+    margin: 20px;
+    margin-left: 600px;
+}
+
+.b {
+    width: 252px;
+    margin: 20px;
+    margin-left: 600px;
+}
+
+button {
+    font-size:10px;
+    width:60px;
+    height:24px;
+}
+
+#red {
+    background-color:red;
+}
+#yellow{
+    background-color:yellow;
+    color:black;
+}
+#blue {
+    background-color:blue;
+}
+#green {
+    background-color:green;
+}
+.h1{
+    margin-left: 80px;
+}
+
+
+
